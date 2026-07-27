@@ -4,11 +4,11 @@ public class Principal001 {
 
 	public static void main(String[] args) {
 		// TODO Auto-generated method stub
-		System.out.print("Hola1");
-		System.out.print("Hola2");
-		System.out.print("Hola3");
-		System.out.print("Hola4");
-		System.out.print("Hola5");
+		System.out.println("Hola1");
+		System.out.println("Hola2");
+		System.out.println("Hola3");
+		System.out.println("Hola4");
+		System.out.println("Hola5");
 
 	}
 
