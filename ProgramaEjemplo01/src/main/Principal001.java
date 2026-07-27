@@ -7,6 +7,7 @@ public class Principal001 {
 		System.out.print("Hola");
 		System.out.print("Hola2");
 		System.out.print("Hola");
+		System.out.print("Hola3");
 
 	}
 
